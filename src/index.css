@@ -32,12 +32,11 @@ button:focus {
 }
 
 .selected-note .text-snippet {
-  color: white;
   font-weight: 700;
 }
 
 .gutter {
-  background-color: #eee;
+  background-color: #64748b;
   background-repeat: no-repeat;
   background-position: 50%;
 }
@@ -65,6 +64,7 @@ button:focus {
 .mde-header {
   display: flex;
   flex-direction: row;
+  background: #0b4f6c;
 }
 .delete-btn {
   display: none;
